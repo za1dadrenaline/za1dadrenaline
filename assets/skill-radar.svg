@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="470" viewBox="0 0 720 470" role="img" aria-labelledby="title desc">
+  <title id="title">Zaid's skill radar</title>
+  <desc id="desc">A terminal-green radar chart showing strengths in Frontend, Backend, React and Next.js, TypeScript, AI, UI and UX, and Databases.</desc>
+  <rect width="720" height="470" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="718" height="468" rx="17" fill="none" stroke="#30363d"/>
+  <text x="36" y="52" fill="#39ff88" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">~/ skill-radar --profile zaid</text>
+  <line x1="36" y1="72" x2="684" y2="72" stroke="#30363d"/>
+  <g transform="translate(360 260)" fill="none" stroke="#30363d" stroke-width="1.5">
+    <polygon points="0,-150 117,-94 146,33 65,135 -65,135 -146,33 -117,-94"/>
+    <polygon points="0,-120 94,-75 117,26 52,108 -52,108 -117,26 -94,-75"/>
+    <polygon points="0,-90 70,-56 88,20 39,81 -39,81 -88,20 -70,-56"/>
+    <polygon points="0,-60 47,-38 59,13 26,54 -26,54 -59,13 -47,-38"/>
+    <polygon points="0,-30 23,-19 29,7 13,27 -13,27 -29,7 -23,-19"/>
+    <line x1="0" y1="0" x2="0" y2="-150"/><line x1="0" y1="0" x2="117" y2="-94"/><line x1="0" y1="0" x2="146" y2="33"/><line x1="0" y1="0" x2="65" y2="135"/><line x1="0" y1="0" x2="-65" y2="135"/><line x1="0" y1="0" x2="-146" y2="33"/><line x1="0" y1="0" x2="-117" y2="-94"/>
+  </g>
+  <g transform="translate(360 260)">
+    <polygon points="0,-132 103,-83 131,30 52,108 -47,98 -111,25 -96,-77" fill="#39ff88" fill-opacity=".22" stroke="#39ff88" stroke-width="3"/>
+    <g fill="#39ff88"><circle cx="0" cy="-132" r="4"/><circle cx="103" cy="-83" r="4"/><circle cx="131" cy="30" r="4"/><circle cx="52" cy="108" r="4"/><circle cx="-47" cy="98" r="4"/><circle cx="-111" cy="25" r="4"/><circle cx="-96" cy="-77" r="4"/></g>
+  </g>
+  <g fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="326" y="95">Frontend</text><text x="482" y="151">React / Next.js</text><text x="527" y="301">TypeScript</text><text x="402" y="429">AI</text><text x="226" y="429">UI / UX</text><text x="60" y="302">Databases</text><text x="96" y="151">Backend</text>
+  </g>
+  <g fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12"><text x="40" y="438">90</text><text x="74" y="438">Frontend</text><text x="198" y="438">88</text><text x="232" y="438">React / Next.js</text><text x="420" y="438">86</text><text x="454" y="438">TypeScript</text></g>
+</svg>
