@@ -4,7 +4,7 @@
 
 ```text
 $ whoami
-zaid@github: Full-stack developer · AI builder · product developer
+Zaid Khan: Full-stack developer · AI builder · product developer
 ```
 
 I build polished websites, useful full-stack applications, and AI-powered tools—then keep improving them by shipping.
